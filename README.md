@@ -4,8 +4,7 @@
 
 ## Prerequisites
 
--   [JavaScript Array Iteration Methods](https://github.com/ga-wdi-boston/js-array-methods)
--   [Ruby](https://www.github.com/ga-wdi-boston/ruby)
+-   [Ruby Array Methods](https://github.com/ga-wdi-boston/ruby-array-methods)
 
 ## Objectives
 
