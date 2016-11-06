@@ -1,4 +1,8 @@
 {
+  "presets": [
+    "lint-consistent",
+    "lint-recommended"
+  ],
   "plugins": {
     "lint": {
       "blockquote-indentation": "2",
