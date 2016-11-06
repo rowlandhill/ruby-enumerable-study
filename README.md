@@ -4,12 +4,11 @@
 
 ## Prerequisites
 
--   [ga-wdi-boston/js-array-methods](https://github.com/ga-wdi-boston/js-array-methods)
--   [ga-wdi-boston/ruby-vs-js](https://www.github.com/ga-wdi-boston/ruby-vs-js)
+-   [Ruby Array Methods](https://github.com/ga-wdi-boston/ruby-array-methods)
 
 ## Objectives
 
-By the end of this, developers should be able to:
+By the end of this study, developers should be able to:
 
 -   Compare Ruby Array and Enumerable methods.
 -   Explain why `length` is not a sensible property of an enumerable.
@@ -30,5 +29,6 @@ requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
-Source code distributed under the MIT license. Text and other assets copyright
-General Assembly, Inc., all rights reserved.
+1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
+1.  All software code is licensed under GNU GPLv3. For commercial use or
+    alternative licensing, please contact legal@ga.co.
