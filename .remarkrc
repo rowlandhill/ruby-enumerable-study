@@ -1,10 +1,6 @@
 {
-  "presets": [
-    "lint-consistent",
-    "lint-recommended"
-  ],
   "plugins": {
-    "lint": {
+    "remark-lint": {
       "blockquote-indentation": "2",
       "checkbox-character-style": {
         "checked": "x",
